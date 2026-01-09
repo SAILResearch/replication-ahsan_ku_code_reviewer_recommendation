@@ -5,3 +5,16 @@ Determining the right code reviewer for a given code change requires understandi
 
 ## Dataset
 Download the dataset using this link: https://drive.google.com/file/d/1RCweKCs9FdVBEBgigahVbMARrNQRVhcT/view?usp=sharing
+
+## Cite
+
+@article{ahasanuzzaman2024using,
+  title={Using knowledge units of programming languages to recommend reviewers for pull requests: an empirical study},
+  author={Ahasanuzzaman, Md and Oliva, Gustavo A and Hassan, Ahmed E},
+  journal={Empirical Software Engineering},
+  volume={29},
+  number={1},
+  pages={33},
+  year={2024},
+  publisher={Springer}
+}
