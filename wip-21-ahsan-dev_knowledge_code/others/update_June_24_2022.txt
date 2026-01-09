@@ -1,0 +1,26 @@
+--- This document is to note down the current progress of our paper 3
+
+Things are done:
+-- Collect the dataset of Prof. Xin
+-- Complete the mapping of the developers of Xin data of GHTorrent to the developers commit author for our 
+knowledge unit profiles
+-- I run the models with Xin features and the AUC is around 0.80 what is reported in the paper
+-- I finished buildingg models with KU count and KU normalized features
+-- I finished building staacked model generation and analysis the result
+-- All the model building scripts are done in the python, Sypder project named "ltc_KU"
+-- We find that the AUC of the stacked models is above 0.90 and outperfming all other models.
+
+All data are avaailable in the Google drive: https://drive.google.com/drive/folders/1vj9tEupJPKsK2MmYAI-FPwJbDclf3XP8
+
+All Xin 75 java project Git repository: /home/local/SAIL/ahsan/XIN_REPOSITORY
+List of contirbutor and their information: /home/local/SAIL/ahsan/LTC_Project/
+Java code for our paper 3 are added into the workspace of our paper 2: /home/local/SAIL/ahsan/visual_studio_workspace/
+Exact Code path for paper 3: /home/local/SAIL/ahsan/visual_studio_workspace/wip-21-ahsan-dev_knowledge_code/src/main/java/com/sail/collaborator
+Paper 3 SAIL Main folder: /home/local/SAIL/ahsan/BACKUP/ahsan_project_2022/
+Xin code: /home/local/SAIL/ahsan/BACKUP/ahsan_project_2022/xin_xia_code/
+ltc python project: /home/local/SAIL/ahsan/BACKUP/ahsan_project_2022/ltc_python_project
+Latest model results: /home/local/SAIL/ahsan/BACKUP/ahsan_project_2022/XinProjectResult/
+Xin paper data: /home/local/SAIL/ahsan/BACKUP/ahsan_project_2022/xin_xia_paper_data/
+
+
+

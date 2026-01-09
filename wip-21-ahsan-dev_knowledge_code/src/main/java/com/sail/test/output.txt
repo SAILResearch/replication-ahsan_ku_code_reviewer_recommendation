@@ -1,0 +1,23 @@
+Compiling findInvokeMethodClassName.txl ... 
+Parsing LambdaExpressionTester.java ...
+Transforming ...
+---------------
+found filter expression
+Lambda: c -> c.getPoints () > 100
+InvokedMethod: getPoints
+Class name of invoked method: Customer
+---------------
+found filter expression
+Lambda: c -> c.getPoints () > 100 && c.getName ().startsWith ("Charles")
+InvokedMethod: getPoints
+Class name of invoked method: Customer
+InvokedMethod: getName
+Class name of invoked method: Customer
+InvokedMethod: startsWith
+
+
+
+
+
+
+

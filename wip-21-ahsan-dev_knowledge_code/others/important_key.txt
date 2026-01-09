@@ -1,0 +1,23 @@
+GitHub Token: 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
+
+
+rg.elasticsearch.discovery.zen.fd.NodesFaultDetection false
+F org.elasticsearch.common.UUID false
+F org.elasticsearch.discovery.zen.elect.ElectMasterService false
+F org.elasticsearch.discovery.zen.fd.MasterFaultDetection false
+F org.elasticsearch.discovery.zen.membership.MembershipAction false
+F org.elasticsearch.discovery.zen.publish.PublishClusterStateAction false
+F org.elasticsearch.common.component.Lifecycle false
+F java.util.List<org.elasticsearch.cluster.node.DiscoveryNode> false
+F java.lang.StringBuilder false
+F org.elasticsearch.cluster.metadata.MetaData false
+F org.elasticsearch.cluster.routing.ShardRouting false
+
+
+maven command:
+mvn -N com.github.ferstl:depgraph-maven-plugin:graph -DgraphFormat=text -DshowDuplicates -DshowConflicts -DshowVersions -DshowGroupIds -DoutputDirectory="/home/local/SAIL/ahsan/.config/Code/User/workspaceStorage/b05bb7558fb37bcbda599ece7a48616a/vscjava.vscode-maven" -DoutputFileName="d39b4c52bc60160790064ca38119bea1.deps.txt" -f "/home/local/SAIL/ahsan/visual_studio_workspace/wip-21-ahsan-dev_knowledge_code/wip-21-ahsan-dev_knowledge_code/pom.xml" 
+
+
+Creating jar with vscode
+https://dev.to/rohitk570/create-an-executable-jar-file-on-vs-code-n-command-line-154b
+
