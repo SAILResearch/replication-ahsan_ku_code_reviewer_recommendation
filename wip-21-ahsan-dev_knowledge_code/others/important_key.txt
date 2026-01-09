@@ -1,5 +1,3 @@
-GitHub Token: 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
-
 
 rg.elasticsearch.discovery.zen.fd.NodesFaultDetection false
 F org.elasticsearch.common.UUID false
