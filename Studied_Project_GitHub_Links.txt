@@ -1,0 +1,10 @@
+apache_activemq, https://github.com/apache/activemq
+apache_groovy, https://github.com/apache/groovy
+apache_hbase, https://github.com/apache/hbase
+apache_hive, https://github.com/apache/hive
+apache_lucene, https://github.com/apache/lucene
+apache_storm, https://github.com/apache/storm
+apache_wicket, https://github.com/apache/wicket
+caskdata_cdap, https://github.com/cdapio/cdap
+elastic_elasticsearch, https://github.com/elastic/elasticsearch
+jruby_jruby, https://github.com/jruby/jruby
